@@ -1,0 +1,44 @@
+/* Estilizando a tag body */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Estilizando a tag header */
+header {
+    background-color: #edf1ed; 
+}
+
+/* Estilizando a tag nav */
+nav {
+    background-color: #a3a2a2; 
+}
+
+/* Estilizando a tag main */
+main {
+    background-color: #f4f4f4; 
+    font-size: 18px;
+}
+
+/* Estilizando a tag footer */
+footer {
+    background-color: #f7f2f2; 
+}
+
+/* Estilizando a tag li */
+li {
+    display: inline-block;
+    width: 100px;
+}
+
+/* Estilizando a tag h1 */
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', serif;
+    color: #333;
+}
+
+/* Estilizando a tag p */
+p {
+    line-height: 1.6; /* Altura da linha */
+}
